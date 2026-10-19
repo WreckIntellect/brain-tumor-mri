@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights and data (too big for git)
+*.pt
+data/
+
+# Kaggle credentials: never commit these
+kaggle.json
