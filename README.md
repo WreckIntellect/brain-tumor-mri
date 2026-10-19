@@ -1,7 +1,6 @@
-# Efficient Deep Learning for Brain Tumor MRI, plus two companion studies
+# Efficient Deep Learning for Brain Tumor MRI
 
-Three self-contained, line-by-line commented notebooks. Each runs on a free Colab T4 GPU and
-is written so that a reader with no deep learning background can follow every step.
+Three notebooks. Each runs on a free Colab T4.
 
 | Notebook | Question it answers | Open |
 |---|---|---|
